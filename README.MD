@@ -51,8 +51,8 @@
   title="github" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
   title="linux" width="60" height="60"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
-  title="notion" width="60" height="60"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+  title="swagger" width="60" height="60"/>&nbsp
 </div>
 
 <br/><br/>
