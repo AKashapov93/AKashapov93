@@ -1,13 +1,13 @@
 <div id ="header" align="center">
-  <h1>Привет 👋, я Виктор</h1>
+  <h1>Привет 👋, я Александр</h1>
   <h3>Java разработчик</h3>
 </div>
 
 <div id="socials" align="center">
-<a href="https://t.me/microd18">
+<a href="https://t.me/AKashapov93">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://vk.com/mr__vik">
+<a href="https://vk.com/id225287074">
   <img src="https://img.shields.io/badge/вконтакте-gray?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
 </div>
@@ -19,7 +19,7 @@
 :desktop_computer: Пишу код каждый день. <br/>
 :chart_with_upwards_trend: Постоянно изучаю что-то новое.  <br/>
 :handshake: Всегда рад пообщаться и ответить на вопросы. <br/>
-:postbox: [Почта.](mailto:Microd@inbox.ru) <br/>
+:postbox: [Почта.](mailto:aleksandrkashapov59@gmail.com) <br/>
 
 <br/><br/>
 
@@ -58,5 +58,5 @@
 <br/><br/>
 
 <div id="stat" align="right">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=default"width="845"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AKashapov93&theme=default"width="845"/>
 </div>
